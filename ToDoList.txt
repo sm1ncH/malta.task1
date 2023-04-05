@@ -1,0 +1,16 @@
+CSS za:
+insert_user.html
+insert_user.php
+admin_login.html
+select_admin.php
+select_form.php
+insert_form1.php
+insert_form2.php
+insert_form3.php
+
+Spremenit vsebino: 
+insert_form1.php
+insert_form2.php
+insert_form3.php
+
+Admin failed sign in message (wrong username or passowrd)
