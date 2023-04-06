@@ -12,14 +12,17 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-
+a{
+    color: white;
+    text-decoration: none;
+}
 nav ul li {
     --c: goldenrod;
     color: var(--c);
     font-size: 16px;
     border: 0.3em solid var(--c);
     border-radius: 0.5em;
-    width: 12em;
+    width: 100px;
     height: 3em;
     text-transform: uppercase;
     font-weight: bold;
@@ -36,7 +39,7 @@ nav ul li {
 
 nav ul li span {
     position: absolute;
-    width: 25%;
+    width: 20%;
     height: 100%;
     background-color: var(--c);
     transform: translateY(150%);

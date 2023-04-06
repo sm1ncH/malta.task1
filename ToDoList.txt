@@ -16,3 +16,5 @@ insert_form3.php
 Admin failed sign in message (wrong username or passowrd)
 
 dvakratni vpis pri user
+
+form popravi width pa height na 300%

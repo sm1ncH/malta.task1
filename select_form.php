@@ -23,12 +23,18 @@ while($row = mysqli_fetch_array($query)){
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style/select_form_style.css">
 </head>
 <body>
     <?php
-        echo "<a href='insert_form1.php'>Full time form</a><br>";
-        echo "<a href='insert_form2.php'>Part time form</a><br>";
-        echo "<a href='insert_form3.php'>Student form</a>";
+
+        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form1.php'>Full time form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
+        
+        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form2.php'>Part time form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
+
+        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form3.php'>Student form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
+        
+        
         setcookie("id",$id);
         setcookie("name",$name);
         setcookie("surname",$surname);

@@ -1,3 +1,8 @@
 .user {
     background-color: yellow;
 }
+
+body form{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}

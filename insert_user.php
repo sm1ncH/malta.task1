@@ -18,7 +18,7 @@ $result = mysqli_query($link, $sql);
 <!DOCTYPE html>
 <head>
     <title>Insert</title>
-    <link rel="stylesheet" href="insert_user_style.css">
+    <link rel="stylesheet" href="style/insert_user_style.css">
 </head>
 <body>
 

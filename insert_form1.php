@@ -19,6 +19,12 @@ $post = $_COOKIE['post'];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style/form1.css">
+    <style>
+        body{
+            margin: 0px 2cm;
+            margin-bottom: 2cm;
+        }
+    </style>
 </head>
 <body>
 <form action="final_form.php" method="POST">

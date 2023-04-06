@@ -82,7 +82,7 @@ docPDF.html(elementHTML, {
             v.	DB, without prejudice to any other rights and remedies, may charge interest at the rate of 8% per annum (both before and after judgment) on fees which are not paid by the date on which they become due. Furthermore, the provision of the service may be suspended until payment in full is settled.
             
             vi.	DB shall be entitled to be reimbursed by the CLIENT for expenses reasonably and properly incurred by DB in the performance of duties required to render the service, subject to production of such evidence thereof as the CLIENT may reasonably require
-            
+            <br><br><br><br>
             4. ACCESS AND RECEIVED DATA
             The CLIENT shall grant DB all reasonable access to locations, premises, staff and resources as necessary for the performance of the service. Furthermore, the CLIENT shall at its own expense supply DB with all Received Data as is necessary, and within sufficient time to enable DB to perform the services. The CLIENT shall ensure the accuracy of any Received Data and undertakes that DB is entitled to use the Received Data for the purpose of this agreement.
             
@@ -127,7 +127,7 @@ docPDF.html(elementHTML, {
             iii.	The CLIENT undertakes to use the Produced Material solely for the purposes for which such documentation and/or material are provided to the CLIENT.
             
             iv.	Where the purposes for which the Produced Material is provided to the CLIENT permit the CLIENT to disclose or copy such documentation or material to any third party, the CLIENT shall ensure that prior to such copying or disclosure, the third party acknowledges and agrees in writing that the copyright and all other intellectual property and proprietary rights in any tools, techniques and methodologies are owned by DB and that the third party will keep such Produced Material confidential.
-            
+            <br><br><br><br>
             9. RESTRICTIONS
             i.	Each party undertakes to the other that, for the duration of this agreement and for a period of five years after the cessation of such agreement, it shall not solicit or entice away from the other party any officer, manager or servant whether or not such person would commit a breach of his contract of employment by reason of leaving service, provided that this undertaking shall not restrict either party from carrying out general recruitment activities in the normal course of business.
             
