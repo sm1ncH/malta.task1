@@ -18,8 +18,19 @@ $result = mysqli_query($link, $sql);
 <!DOCTYPE html>
 <head>
     <title>Insert</title>
+    <link rel="stylesheet" href="insert_user_style.css">
 </head>
 <body>
-    <a href="admin_login.html">Continue as admin</a>
+
+
+    <nav>
+        <ul>
+        <li>
+        <a href="admin_login.html">Continue as admin<span></span><span></span><span></span><span></span></a>
+    </li>
+        </ul>
+    </nav>
+
+    
 </body>
 </html>

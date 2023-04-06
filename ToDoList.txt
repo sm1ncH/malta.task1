@@ -14,3 +14,5 @@ insert_form2.php
 insert_form3.php
 
 Admin failed sign in message (wrong username or passowrd)
+
+dvakratni vpis pri user

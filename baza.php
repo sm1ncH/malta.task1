@@ -4,7 +4,7 @@ povezava na strežnik
  */
 $host="jure-p.eu";
 $user="jurep_db";
-$password="EA?wJ0jW-)}Jmh?dJB";
+$password="yUo}lx,nG4jS";
 $db="jurep_maltataskone";
 
 $link = mysqli_connect($host, $user, $password, $db);
