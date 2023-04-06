@@ -2,10 +2,10 @@
 /* 
 povezava na strežnik
  */
-$host="localhost";
-$user="root";
-$password="m1h42005";
-$db="malta1";
+$host="jure-p.eu";
+$user="jurep_db";
+$password="EA?wJ0jW-)}Jmh?dJB";
+$db="jurep_maltataskone";
 
 $link = mysqli_connect($host, $user, $password, $db);
 
