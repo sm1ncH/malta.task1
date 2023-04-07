@@ -16,6 +16,7 @@ a{
     color: white;
     text-decoration: none;
 }
+
 nav ul li {
     --c: goldenrod;
     color: var(--c);
@@ -39,7 +40,7 @@ nav ul li {
 
 nav ul li span {
     position: absolute;
-    width: 40%;
+    width: 25%;
     height: 300%;
     background-color: var(--c);
     transform: translateY(150%);

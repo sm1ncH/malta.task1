@@ -24,15 +24,22 @@ while($row = mysqli_fetch_array($query)){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style/select_form_style.css">
+    <style>
+        nav ul li span {
+            width: 30%;
+            height: 270%;
+        }
+        nav ul li{
+            width: 200px;
+        }
+    </style>
 </head>
 <body>
     <?php
 
-        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form1.php'>Full time form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
-        
-        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form2.php'>Part time form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
-
-        echo "<head><link rel='stylesheet' href='style/select_form_style.css'></head><nav><ul><li><a href='insert_form3.php'>Student form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
+        echo "<nav><ul><li><a href='insert_form1.php'>Full time form<span></span><span></span><span></span><span></span></a></li>
+        <li><a href='insert_form2.php'>Part time form<span></span><span></span><span></span><span></span></a></li>
+        <li><a href='insert_form3.php'>Student form<span></span><span></span><span></span><span></span></a></li></ul></nav>";
         
         
         setcookie("id",$id);

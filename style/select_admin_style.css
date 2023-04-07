@@ -4,10 +4,12 @@ table {
 }
 
 table th {
-    text-align: left;
+    text-align: center;
     border-top: 2px solid #009578;
     border-bottom: 2px solid #009578;
 }
+
+
 
 table td,
 a {

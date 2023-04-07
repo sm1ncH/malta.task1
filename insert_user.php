@@ -19,6 +19,11 @@ $result = mysqli_query($link, $sql);
 <head>
     <title>Insert</title>
     <link rel="stylesheet" href="style/insert_user_style.css">
+    <style>
+        nav ul li {
+            width: 18em;
+        }
+    </style>
 </head>
 <body>
 
