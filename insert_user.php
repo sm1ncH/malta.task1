@@ -9,7 +9,12 @@ $address2 = $_POST["address2"];
 $town = $_POST["town"];
 $post = $_POST["post"];
 
-$sql = "INSERT INTO users (name, surname, card_number, company, address1, address2, town, post) VALUES ('$name', '$surname', '$card_number','$company','$address1','$address2','$town','$post');";
+$query = "SELECT card_number FROM users";
+if ($card_number != $query){
+    if($card_number != ""){
+        $sql = "INSERT INTO users (name, surname, card_number, company, address1, address2, town, post) VALUES ('$name', '$surname', '$card_number','$company','$address1','$address2','$town','$post');";
+    }
+}
 $result = mysqli_query($link, $sql);
 
 
