@@ -15,10 +15,10 @@ require_once 'baza.php';
     $sql = "SELECT * FROM users";
     $query = mysqli_query($link, $sql);
     echo "<table>";
-    echo "<tr><th><b>user</b></th></tr>";
+    echo "<tr><th><b>User</b></th><th><b>Card number</b></th><th><b>Company</b></th><th><b>Addressline 1</b></th><th><b>Addressline 2</b></th><th><b>Town</b></th><th><b>Post</b></th></tr>";
     while ($row = mysqli_fetch_array($query))
     {
-        echo "<tr><td><a href='select_form.php?id=".$row['id']."'>".$row['name']." ".$row['surname']."</a></td></tr>";
+        echo "<tr><td><a href='select_form.php?id=".$row['id']."'>".$row['name']." ".$row['surname']."</a></td><td>".$row['card_number']."</td><td>".$row['company']."</td><td>".$row['address1']."</td><td>".$row['address2']."</td><td>".$row['town']."</td><td>".$row['post']."</td></tr>";
     }   
     echo "</table>";
     ?>
