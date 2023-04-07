@@ -9,6 +9,10 @@ table th {
     border-bottom: 2px solid #009578;
 }
 
+.company{
+    width: 100px;
+}
+
 table td,
 a {
   font-size: 1em;
