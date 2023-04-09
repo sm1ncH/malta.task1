@@ -9,6 +9,11 @@ require_once 'baza.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin panel</title>
     <link rel="stylesheet" href="style/select_admin_style.css">
+    <style>
+        td{
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <?php
