@@ -76,12 +76,11 @@ docPDF.html(elementHTML, {
             
             iii.	The fees agreed to as at the date of signing this agreement, specified in the conditions of service schedule, are based on information made available to DB by the CLIENT therefore DB reserves the right to revise the stipulated fee in the light of additional information that may alter the objectives, location or complexity of the service.
             <br><br><br><br>
-            iv.	In the case of a fixed fee project, DB reserves the right to require a payment of fifty percent (50%) of the total fee in advance, prior to commencing work
+            In the case of a fixed fee project, DB reserves the right to require a payment of fifty percent (50%) of the total fee in advance, prior to commencing work
             
             v.	DB, without prejudice to any other rights and remedies, may charge interest at the rate of 8% per annum (both before and after judgment) on fees which are not paid by the date on which they become due. Furthermore, the provision of the service may be suspended until payment in full is settled.
             
-            vi.	DB shall be entitled to be reimbursed by the CLIENT for expenses reasonably and properly incurred by DB in the performance of duties required to render the service, subject to production of such evidence thereof as the CLIENT may reasonably require
-            <br><br><br><br>
+            vi.	DB shall be entitled to be reimbursed by the CLIENT for expenses reasonably and properly incurred by DB in the performance of duties required to render the service, subject to production of such evidence thereof as the CLIENT may reasonably require.
             4. ACCESS AND RECEIVED DATA
             The CLIENT shall grant DB all reasonable access to locations, premises, staff and resources as necessary for the performance of the service. Furthermore, the CLIENT shall at its own expense supply DB with all Received Data as is necessary, and within sufficient time to enable DB to perform the services. The CLIENT shall ensure the accuracy of any Received Data and undertakes that DB is entitled to use the Received Data for the purpose of this agreement.
             
@@ -114,9 +113,9 @@ docPDF.html(elementHTML, {
             7. PUBLICATION OF MATERIAL
             Where the services provided under this agreement include the publication of material, the following conditions shall apply:
             
-            i.	The CLIENT will retain the right to edit the final draft prior to publication subject, in the case of joint publications, to amendments proposed being agreed with the author(s)
-            
-            ii.	Prior to publication, DB shall not disclose any material obtained or produced for the purpose of the project to any other party unless the CLIENT has given prior approval.
+            The CLIENT will retain the right to edit the final draft prior to publication subject, in the case of joint publications, to amendments proposed being agreed with the author(s)
+            <br><br><br><br><br>
+            Prior to publication, DB shall not disclose any material obtained or produced for the purpose of the project to any other party unless the CLIENT has given prior approval.
             
             8. INTELLECTUAL PROPERTY RIGHTS
             i.	Any and all patent or other intellectual property rights flowing from either party's consideration of Confidential Information disclosed to it by the other party shall belong to the disclosing party.
