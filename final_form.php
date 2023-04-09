@@ -69,7 +69,7 @@ docPDF.html(elementHTML, {
             
             2. COMMENCEMENT AND DURATION
             This agreement shall come into effect on the commencement date specified in the conditions of service schedule and shall continue, unless terminated under clause 12, in full force and effect until the termination date specified in the conditions of service schedule, if applicable, or otherwise until completion of the service.
-            
+            <br><br><br><br>
             3. SERVICE FEE AND EXPENSES
             i.	The CLIENT shall pay to DB a service fee at the rate specified in the conditions of service schedule, which shall be invoiced by DB and such invoices to be payable by the CLIENT within thirty [30] days from the date of invoice. Fees in conditions of service schedule are exclusive of Value Added Tax (VAT), which will be charged, where applicable, in addition and at the appropriate rate.
             
@@ -127,7 +127,6 @@ docPDF.html(elementHTML, {
             iii.	The CLIENT undertakes to use the Produced Material solely for the purposes for which such documentation and/or material are provided to the CLIENT.
             
             iv.	Where the purposes for which the Produced Material is provided to the CLIENT permit the CLIENT to disclose or copy such documentation or material to any third party, the CLIENT shall ensure that prior to such copying or disclosure, the third party acknowledges and agrees in writing that the copyright and all other intellectual property and proprietary rights in any tools, techniques and methodologies are owned by DB and that the third party will keep such Produced Material confidential.
-            <br><br><br><br>
             9. RESTRICTIONS
             i.	Each party undertakes to the other that, for the duration of this agreement and for a period of five years after the cessation of such agreement, it shall not solicit or entice away from the other party any officer, manager or servant whether or not such person would commit a breach of his contract of employment by reason of leaving service, provided that this undertaking shall not restrict either party from carrying out general recruitment activities in the normal course of business.
             
