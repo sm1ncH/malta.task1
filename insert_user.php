@@ -10,7 +10,7 @@ $town = $_POST["town"];
 $post = $_POST["post"];
 
 
-if($card_number !== " "){
+if($card_number != " "){
     $sql = "INSERT INTO users (name, surname, card_number, company, address1, address2, town, post) VALUES ('$name', '$surname', '$card_number','$company','$address1','$address2','$town','$post');";
 }
 
