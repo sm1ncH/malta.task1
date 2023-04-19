@@ -138,8 +138,10 @@ docPDF.html(elementHTML, {
             Upon termination of this agreement, DB will return to the CLIENT any produced material and any documents, material or information supplied by or obtained from the CLIENT in connection with the service provided under this agreement.
             
             13. GOVERNANCE
+            
             This Agreement shall be governed by and construed in accordance with the laws of [Malta] and the parties irrevocably agree to submit themselves to the exclusive jurisdiction of the [Maltese] Courts.
-            </p>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </p>
             <h3>YVES DE BARRO <br>
                 ID Card: 0138686m
                 </h3>
