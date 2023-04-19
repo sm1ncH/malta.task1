@@ -140,7 +140,7 @@ docPDF.html(elementHTML, {
             13. GOVERNANCE
             
             This Agreement shall be governed by and construed in accordance with the laws of [Malta] and the parties irrevocably agree to submit themselves to the exclusive jurisdiction of the [Maltese] Courts.
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         </p>
             <h3>YVES DE BARRO <br>
                 ID Card: 0138686m
