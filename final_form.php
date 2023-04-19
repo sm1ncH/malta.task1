@@ -71,11 +71,11 @@ docPDF.html(elementHTML, {
             This agreement shall come into effect on the commencement date specified in the conditions of service schedule and shall continue, unless terminated under clause 12, in full force and effect until the termination date specified in the conditions of service schedule, if applicable, or otherwise until completion of the service.
             3. SERVICE FEE AND EXPENSES
             i.	The CLIENT shall pay to DB a service fee at the rate specified in the conditions of service schedule, which shall be invoiced by DB and such invoices to be payable by the CLIENT within thirty [30] days from the date of invoice. Fees in conditions of service schedule are exclusive of Value Added Tax (VAT), which will be charged, where applicable, in addition and at the appropriate rate.
-            
+            <br><br><br><br>
             ii.	The agreed service fee may be increased if and to the extent that DB’s costs are increased by increases in the cost of labour or cost of living adjustment or an increase in the cost of fuel or by changes in law which have effect after the date of this agreement. This will be done by DB giving the CLIENT one month’s prior notice. If the agreement being entered into is for a period equal to or longer than 12 months, or project-based but on an indefinite period that may elapse the 12 months then the contract price may be increased yearly, either on each anniversary of the date of this Agreement, or at any time after the lapse of the 12 months, by a percentage which at least reflects the standard national inflation costs, as agreed to by the CLIENT and DB.
             
             iii.	The fees agreed to as at the date of signing this agreement, specified in the conditions of service schedule, are based on information made available to DB by the CLIENT therefore DB reserves the right to revise the stipulated fee in the light of additional information that may alter the objectives, location or complexity of the service.
-            <br><br><br><br>
+            
             In the case of a fixed fee project, DB reserves the right to require a payment of fifty percent (50%) of the total fee in advance, prior to commencing work
             
             v.	DB, without prejudice to any other rights and remedies, may charge interest at the rate of 8% per annum (both before and after judgment) on fees which are not paid by the date on which they become due. Furthermore, the provision of the service may be suspended until payment in full is settled.
@@ -109,12 +109,12 @@ docPDF.html(elementHTML, {
             ix.	No license or rights are granted hereby to a receiving party in any Confidential Information disclosed by a disclosing party pursuant hereto.
             
             x.	No failure or delay in exercising any right under this Agreement shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise of any right hereunder.
-            
+            <br><br><br><br><br>
             7. PUBLICATION OF MATERIAL
             Where the services provided under this agreement include the publication of material, the following conditions shall apply:
             
             The CLIENT will retain the right to edit the final draft prior to publication subject, in the case of joint publications, to amendments proposed being agreed with the author(s)
-            <br><br><br><br><br>
+            
             Prior to publication, DB shall not disclose any material obtained or produced for the purpose of the project to any other party unless the CLIENT has given prior approval.
             
             8. INTELLECTUAL PROPERTY RIGHTS
