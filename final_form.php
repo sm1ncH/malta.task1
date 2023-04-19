@@ -108,13 +108,13 @@ docPDF.html(elementHTML, {
             
             ix.	No license or rights are granted hereby to a receiving party in any Confidential Information disclosed by a disclosing party pursuant hereto.
             
-            x.	No failure or delay in exercising any right under this Agreement shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise of any right hereunder.
+            x.	No failure or delay in exercising any right under this Agreement shall operate as a waiver thereof nor shall any single or <br><br><br><br><br><br><br><br><br><br> partial exercise thereof preclude any other or further exercise of any right hereunder.
             
             7. PUBLICATION OF MATERIAL
             Where the services provided under this agreement include the publication of material, the following conditions shall apply:
             
             The CLIENT will retain the right to edit the final draft prior to publication subject, in the case of joint publications, to amendments proposed being agreed with the author(s)
-            <br><br><br><br><br>
+            
             Prior to publication, DB shall not disclose any material obtained or produced for the purpose of the project to any other party unless the CLIENT has given prior approval.
             
             8. INTELLECTUAL PROPERTY RIGHTS
